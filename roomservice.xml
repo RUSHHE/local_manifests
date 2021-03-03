@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="xiaomi-mt6785/android_device_xiaomi_begonia" path="device/xiaomi/begonia" remote="github" />
+  <project name="xiaomi-mt6785/android_device_xiaomi_begoniain" path="device/xiaomi/begoniain" remote="github" />
+  <project name="xiaomi-mt6785/android_device_xiaomi_mt6785-common" path="device/xiaomi/mt6785-common" remote="github" />
+  <project name="LineageOS/android_hardware_mediatek" path="hardware/mediatek" remote="github" />
+  <project name="LineageOS/android_device_mediatek_sepolicy" path="device/mediatek/sepolicy" remote="github" />
+  <project name="xiaomi-mt6785/android_kernel_xiaomi_mt6785" path="kernel/xiaomi/mt6785" remote="github" />
+  <project name="xiaomi-mt6785/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="github" />
+  <project name="xiaomi-mt6785/proprietary_vendor_firmware" path="vendor/firmware" remote="github" />
+</manifest>
